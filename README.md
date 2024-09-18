@@ -13,7 +13,7 @@ This webpage simply displays images and information on the author, as well as li
 The main challenge I faced was the formatting the image on the page, and trying to get it to look the way I wanted it to.
 
 ## Where can be seen: 
-[Toni Morrison](https://github.com/sarahknego/Toni-Morrison.git) 
+[Toni Morrison](https://sarahknego.github.io/Toni-Morrison/)) 
 
 ## How to install:
 1. Fork and clone this repository
